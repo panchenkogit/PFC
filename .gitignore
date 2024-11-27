@@ -3,4 +3,5 @@ alembic.ini
 *.db
 .idea
 venv
-
+.venv
+__pycashe__
